@@ -1,6 +1,12 @@
 # 100DaysOfCode
-<h1>100 dias de código</h1><br>
 O desafio de codificar pelo menos uma hora todos os dias pelos próximos 100 dias.
-Duas regras principais
+<br>
+<h2>Duas regras principais:</h2>
+<br>
 Codifique o mínimo de uma hora todos os dias pelos próximos 100 dias.
+<br>
 Acompanhe seu progresso todos os dias com a hashtag # 100DaysOfCode.
+<br>
+<h2>Twitter</h2>
+<br>
+@RosaCirina
