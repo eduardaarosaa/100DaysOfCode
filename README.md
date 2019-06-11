@@ -12,3 +12,6 @@ Acompanhe seu progresso todos os dias com a hashtag # 100DaysOfCode.
 <p>Veja as postagens diárias</p>
 <br>
 <a href="https://twitter.com/RosaCirina">@RosaCirina</a>
+
+<h2>Repósitorios que fizeram parte do desafio</h2>
+<a href="https://github.com/eduardaarosaa/JsCurso">JsCurso</>
