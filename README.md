@@ -9,4 +9,6 @@ Acompanhe seu progresso todos os dias com a hashtag # 100DaysOfCode.
 <br>
 <h2>Twitter</h2>
 <br>
-@RosaCirina
+<p>Veja as postagens diárias</p>
+<br>
+<a href="https://twitter.com/RosaCirina">@RosaCirina</a>
