@@ -14,6 +14,6 @@ Acompanhe seu progresso todos os dias com a hashtag # 100DaysOfCode.
 <a href="https://twitter.com/RosaCirina">@RosaCirina</a>
 
 <h2>Repósitorios que fizeram parte do desafio</h2>
-<a href="https://github.com/eduardaarosaa/JsCurso">JsCurso</>
-<a href="https://github.com/eduardaarosaa/verificadorIdade-js">Verificador de Idade </a>
-<a href="https://github.com/eduardaarosaa/verificador-hora-js">Verificador de Hora </a>
+<a href="https://github.com/eduardaarosaa/JsCurso">JsCurso<a/><br>
+<a href="https://github.com/eduardaarosaa/verificadorIdade-js">Verificador de Idade </a><br>
+<a href="https://github.com/eduardaarosaa/verificador-hora-js">Verificador de Hora </a><br>
